@@ -1,11 +1,10 @@
 # The Retention Architect
-## AI development jiggas department | HackNU 2026
+## Higgsfield Retention Architect | HackNU 2026
 
 ---
 
 ## Слайд 1 — Привет
 
-**Команда:** AI development jiggas department
 
 Мы взяли задачу Higgsfield и подошли к ней не как к соревнованию по машинному обучению — а как к реальной бизнес-проблеме.
 
@@ -279,4 +278,4 @@ Vol_churn часто — «выгорание»: сделал что нужно 
 **Спасибо. Готовы к вопросам.**
 
 ---
-*AI development jiggas department | HackNU 2026*
+*HackNU 2026*
