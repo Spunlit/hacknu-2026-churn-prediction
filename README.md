@@ -1,4 +1,4 @@
-# Higgsfield Retention Architect — AI development jiggas department
+# Higgsfield Retention Architect — HackNU 2026 churn prediction
 
 **HackNU 2026 | Higgsfield DS Challenge**
 
@@ -91,7 +91,7 @@ pip install lightgbm xgboost scikit-learn pandas numpy scipy pyarrow
 Hackaton2/
 ├── train.py                                    # Full pipeline
 ├── feature_importance.csv                      # Feature importance from LightGBM
-├── AI_development_jiggas_department_submission.csv  # Final submission
+├── submission.csv                                  # Final submission
 ├── feature_cache/
 │   ├── train_features.parquet                  # Cached train features
 │   └── test_features.parquet                   # Cached test features
