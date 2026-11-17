@@ -88,13 +88,9 @@ pip install lightgbm xgboost scikit-learn pandas numpy scipy pyarrow
 ## File Structure
 
 ```
-Hackaton2/
-├── train.py                                    # Full pipeline
-├── feature_importance.csv                      # Feature importance from LightGBM
-├── submission.csv                                  # Final submission
-├── feature_cache/
-│   ├── train_features.parquet                  # Cached train features
-│   └── test_features.parquet                   # Cached test features
-├── Train Data/                                 # Raw train datasets
-└── Test Data/                                  # Raw test datasets
+hacknu-2026-churn-prediction/
+├── train.py                  # Full pipeline: features, models, ensemble, submission
+├── feature_importance.csv    # Feature importance from LightGBM
+├── submission.csv            # Final submission
+└── (not in the repo)         # cached features, raw train and test data
 ```
